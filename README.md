@@ -6,7 +6,7 @@
 
 - 🌁 I’m currently studying in **Moscow Power Engineering Institute(MPEI)**
 
-- 🌱 I’m currently learning: **JavaScript, Nodejs, Python, C# andpentester**
+- 🌱 I’m currently learning: **PHP, JavaScript, Nodejs, Python, C# and Pentester**
 
 - 📫 How to reach me: **lvsangck55@gmail.com**
 
@@ -18,6 +18,9 @@
 <p align="left">
   <a href="https://nodejs.org/en/docs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
