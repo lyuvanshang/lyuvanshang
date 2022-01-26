@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **lvsangck55@gmail.com**
 
-- ⚡ What I like to do: **I like so much music, football, chess...and coding**
+- ⚡ What I like to do: **I like so much music, football, chess...coding and CTF**
 
 <hr>
 
@@ -45,7 +45,7 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lyuvanshang&show_icons=true&theme=tokyonight&line_height=27" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuvanshang&theme=tokyonight&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuvanshang&hide=HTML,CSS&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 </p>
 
 <!--
